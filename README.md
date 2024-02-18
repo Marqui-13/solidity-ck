@@ -20,7 +20,7 @@ CryptoKids is a blockchain-based application designed to securely manage and aut
 
 ## Technical Details
 
-- Solidity ^0.8.7: Developed using Solidity version 0.8.7 for robustness and security.
+- Solidity ^0.8.7: Developed using Solidity version 0.8.7.
 - Ethereum Blockchain: Deployed on the Ethereum blockchain for decentralized security and transparency.
 
 ## Contract Functions
