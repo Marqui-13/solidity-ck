@@ -45,6 +45,8 @@ To deploy and interact with this contract:
 - Functions altering contract state are restricted to the contract owner or are validated thoroughly to prevent unauthorized access.
 - Withdrawal operations are designed to revert on failure, ensuring the integrity of the contract's state and balances.
 
+Remember, even with these security considerations, it’s crucial to conduct thorough testing and consider a professional audit, especially for contracts handling financial transactions.
+
 ## License
 
 This project is unlicensed and available for educational and demonstration purposes.
