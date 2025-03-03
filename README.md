@@ -4,11 +4,11 @@
 
 # Features
 
-**Add Kid Profiles** – Securely add a kid’s wallet address, name, release date, and allowance details.
-**Deposit Funds** – Parents or guardians can deposit Ether directly into the contract, earmarked for a specific kid.
-**Automated Allowance Release** – Funds are released based on a predefined date, ensuring kids access their money only when permitted.
-**Withdrawal by Kids** – Kids can withdraw their funds to their own wallets upon meeting eligibility conditions.
-**Secure & Transparent** – Built on Ethereum’s blockchain for immutability, decentralization, and security.
+**Add Kid Profiles** – Securely add a kid’s wallet address, name, release date, and allowance details.<br>
+**Deposit Funds** – Parents or guardians can deposit Ether directly into the contract, earmarked for a specific kid.<br>
+**Automated Allowance Release** – Funds are released based on a predefined date, ensuring kids access their money only when permitted.<br>
+**Withdrawal by Kids** – Kids can withdraw their funds to their own wallets upon meeting eligibility conditions.<br>
+**Secure & Transparent** – Built on Ethereum’s blockchain for immutability, decentralization, and security.<br>
 
 # How It Works
 
@@ -45,21 +45,21 @@
 
 ## How to Deploy
 
-**1. Pre-requisites:**
-	•	Install MetaMask or another Ethereum wallet
-	•	Have sufficient Ether for gas fees
-**2. Deploy the Contract:**
-	•	Use Remix IDE, Hardhat, or another Solidity environment
-	•	Deploy the contract to Ethereum mainnet or testnet (Goerli, Sepolia, etc.)
-**3. Interact with the Contract:**
-	•	Use Remix IDE, Etherscan, or a Web3 library (Web3.js, Ethers.js)
+**1. Pre-requisites:**<br>
+	•	Install MetaMask or another Ethereum wallet<br>
+	•	Have sufficient Ether for gas fees<br>
+**2. Deploy the Contract:**<br>
+	•	Use Remix IDE, Hardhat, or another Solidity environment<br>
+	•	Deploy the contract to Ethereum mainnet or testnet (Goerli, Sepolia, etc.)<br>
+**3. Interact with the Contract:**<br>
+	•	Use Remix IDE, Etherscan, or a Web3 library (Web3.js, Ethers.js)<br>
 
 # Security Considerations
 
-**Reentrancy Protection** – Uses the checks-effects-interactions pattern to prevent reentrancy attacks.
-**Access Control** – Owner-restricted functions ensure only authorized users can modify contract state.
-**Gas Griefing Protection** – Uses .send instead of .call to prevent malicious gas exhaustion.
-**Emergency Withdrawals** – The owner can recover funds in case of persistent transfer failures.
+**Reentrancy Protection** – Uses the checks-effects-interactions pattern to prevent reentrancy attacks.<br>
+**Access Control** – Owner-restricted functions ensure only authorized users can modify contract state.<br>
+**Gas Griefing Protection** – Uses .send instead of .call to prevent malicious gas exhaustion.<br>
+**Emergency Withdrawals** – The owner can recover funds in case of persistent transfer failures.<br>
 
 ⚠ **Disclaimer:** Although this contract follows security best practices, **it is highly recommended to conduct professional audits and thorough testing before deploying on mainnet**.
 
