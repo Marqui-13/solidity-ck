@@ -19,9 +19,9 @@
 5. **Withdrawing Funds** – Eligible kids can withdraw their funds to their personal wallet.
 
 # Technical Details
-	•	**Solidity Version:** ^0.8.7
-	•	**Ethereum Blockchain:** Deployed on Ethereum for decentralized security and transparency
-	•	**Gas Optimizations:** Uses mappings instead of arrays for efficient lookups
+	•	Solidity Version: ^0.8.7
+	•	Ethereum Blockchain: Deployed on Ethereum for decentralized security and transparency
+	•	Gas Optimizations: Uses mappings instead of arrays for efficient lookups
 
 # Smart Contract Functions
 
