@@ -58,7 +58,7 @@ To explore this contract locally:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Marqui-13/solidity-ck
    cd cryptokids
    ```
 2. Install dependencies:
@@ -150,11 +150,11 @@ Remix is ideal for quick testing without local setup, offering a built-in VM and
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
 
-Reach out via GitHub Issues for feedback or questions!
-GitHub: @Marqui-13
+Reach out via GitHub Issues for feedback or questions! <br>
+GitHub: @Marqui-13<br>
 Email: marquivionorr@proton.me
 
